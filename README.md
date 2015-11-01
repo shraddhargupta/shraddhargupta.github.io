@@ -1,2 +1,2 @@
-# jaydjoshi.github.io
-CV of Jay Joshi
+# shraddhargupta.github.io
+CV of Shraddha
